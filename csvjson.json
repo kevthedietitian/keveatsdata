@@ -638,5 +638,15 @@
     "Fat": 24,
     "Category": "Lunch,Dinner",
     "Recipe URL": "https://www.keveats.com/recipes-more/cajun-butter-salmon-bites"
+  },
+  {
+    "Title": "Pistachio Cream",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/73fdf716-0ca1-443d-a8ec-1b83c932eb93/DSC01204.jpg?format=2500w",
+    "Calories": 130,
+    "Protein": 3,
+    "Carbs": 10,
+    "Fat": 7,
+    "Category": "Snack,Dessert",
+    "Recipe URL": "https://www.keveats.com/recipes-more/pistachio-cream"
   }
 ]

@@ -678,5 +678,15 @@
     "Fat": 10,
     "Category": "Breakfast,Snack,Dessert",
     "Recipe URL": "https://www.keveats.com/recipes-more/blueberry-muffins"
+  },
+  {
+    "Title": "Protein Bars",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/e7c27401-e667-4527-8a54-43d1640459c0/DSC01266.jpg?format=2500w",
+    "Calories": 240,
+    "Protein": 14,
+    "Carbs": 13,
+    "Fat": 15,
+    "Category": "Snack,Dessert",
+    "Recipe URL": "https://www.keveats.com/recipes-more/protein-bars"
   }
 ]

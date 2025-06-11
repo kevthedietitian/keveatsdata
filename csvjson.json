@@ -698,5 +698,15 @@
     "Fat": 16,
     "Category": "Lunch,Dinner",
     "Recipe URL": "https://www.keveats.com/recipes-more/caesar-wrap"
+  },
+  {
+    "Title": "Mango Coconut Overnight Oats",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/c01ab28e-ddfa-47ad-a640-1582ec8f8bff/DSC01321.jpg?format=2500w",
+    "Calories": 450,
+    "Protein": 28,
+    "Carbs": 35,
+    "Fat": 20,
+    "Category": "Breakfast,Lunch,Snack",
+    "Recipe URL": "https://www.keveats.com/recipes-more/mango-coconut-overnight-oats"
   }
 ]

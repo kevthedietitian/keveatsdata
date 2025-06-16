@@ -708,5 +708,25 @@
     "Fat": 20,
     "Category": "Breakfast,Lunch,Snack",
     "Recipe URL": "https://www.keveats.com/recipes-more/mango-coconut-overnight-oats"
+  },
+  {
+    "Title": "Lemon Loaf (Or Muffins)",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/5efbe247-142a-4f0f-bf45-260130fa06ce/DSC01342.jpg?format=2500w",
+    "Calories": 180,
+    "Protein": 11,
+    "Carbs": 15,
+    "Fat": 9,
+    "Category": "Breakfast,Dessert,Snack",
+    "Recipe URL": "https://www.keveats.com/recipes-more/lemon-loaf"
+  },
+  {
+    "Title": "Pinneapple Terriyaki Chicken & Mac Salad",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/c64c5d28-4a7a-4c08-8d57-532dac1b85c2/DSC01352.jpg?format=2500w",
+    "Calories": 450,
+    "Protein": 38,
+    "Carbs": 32,
+    "Fat": 22,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/pinneapple-terriyaki-chicken-amp-mac-salad"
   }
 ]

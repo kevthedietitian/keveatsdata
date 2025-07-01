@@ -738,5 +738,25 @@
     "Fat": 28,
     "Category": "Lunch,Dinner",
     "Recipe URL": "https://www.keveats.com/recipes-more/coconut-curry-salmon"
+  },
+  {
+    "Title": "Coconut Milk Berry Popsicles",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/f56fbd55-3802-4c95-af6a-741bf4d7e24a/DSC00291.jpg?format=2500w",
+    "Calories": 80,
+    "Protein": 1,
+    "Carbs": 6,
+    "Fat": 6,
+    "Category": "Snack,Dessert",
+    "Recipe URL": "https://www.keveats.com/recipes-more/coconut-milk-berry-popsicles"
+  },
+  {
+    "Title": "Lemon Blueberry Cookies",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/568f4aac-b794-448a-8951-f0b0726cbe0f/DSC00473.jpg?format=2500w",
+    "Calories": 115,
+    "Protein": 3,
+    "Carbs": 4,
+    "Fat": 10,
+    "Category": "Snack,Dessert",
+    "Recipe URL": "https://www.keveats.com/recipes-more/lemon-blueberry-cookies"
   }
 ]

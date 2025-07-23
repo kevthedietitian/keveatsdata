@@ -788,5 +788,15 @@
     "Fat": 8,
     "Category": "Breakfast,Snack,Dessert",
     "Recipe URL": "https://www.keveats.com/recipes-more/banana-bread"
+  },
+  {
+    "Title": "Bahn Mi Bowl",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/bedb5bc3-7c0a-413e-a222-5d56bd9681f9/DSC01457.jpg?format=2500w",
+    "Calories": 435,
+    "Protein": 25,
+    "Carbs": 40,
+    "Fat": 17,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/bahn-mi-bowl"
   }
 ]

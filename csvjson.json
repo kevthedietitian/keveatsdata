@@ -778,5 +778,15 @@
     "Fat": 17,
     "Category": "Lunch,Dinner",
     "Recipe URL": "https://www.keveats.com/recipes-more/bahn-mi-bowl"
+  },
+  {
+    "Title": "Strawberry Shortcake Jars",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/f46ce31d-4c66-4568-9030-21831ea26bae/DSC01486.jpg?format=2500w",
+    "Calories": 180,
+    "Protein": 5,
+    "Carbs": 18,
+    "Fat": 9,
+    "Category": "Snack,Dessert",
+    "Recipe URL": "https://www.keveats.com/recipes-more/strawberry-shortcake-jars"
   }
 ]

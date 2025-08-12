@@ -798,5 +798,15 @@
     "Fat": 24,
     "Category": "Lunch,Dinner",
     "Recipe URL": "https://www.keveats.com/recipes-more/honey-soy-glazed-salmon-bites"
+  },
+  {
+    "Title": "Harissa Chicken & Halloumi Wraps",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/ccc90978-7fb9-4047-b9c3-623c8be25d82/DSC01525.jpg?format=2500w",
+    "Calories": 565,
+    "Protein": 48,
+    "Carbs": 43,
+    "Fat": 21,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/harissa-chicken-pita-wraps"
   }
 ]

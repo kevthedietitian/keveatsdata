@@ -778,5 +778,15 @@
     "Fat": 21,
     "Category": "Lunch,Dinner",
     "Recipe URL": "https://www.keveats.com/recipes-more/harissa-chicken-pita-wraps"
+  },
+  {
+    "Title": "Blackberry Cobbler Chia Overnight Oats Parfait",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/de616df5-abf9-4454-a6e0-f06bbaaf63af/DSC01535.jpg?format=2500w",
+    "Calories": 260,
+    "Protein": 22,
+    "Carbs": 25,
+    "Fat": 7,
+    "Category": "Breakfast,Lunch,Snack",
+    "Recipe URL": "https://www.keveats.com/recipes-more/blackberry-cobbler-chia-protein-parfait"
   }
 ]

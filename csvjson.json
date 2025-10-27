@@ -788,5 +788,24 @@
     "Fat": 7,
     "Category": "Breakfast,Lunch,Snack",
     "Recipe URL": "https://www.keveats.com/recipes-more/blackberry-cobbler-chia-protein-parfait"
-  }
+  },
+  {
+    "Title": "Chocolate Chip Pumpkin Bread",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/a9c4a602-d8de-4da8-aff5-a89e4b3ad614/DSC01556.jpg?format=2500w",
+    "Calories": 155,
+    "Protein": 8,
+    "Carbs": 15,
+    "Fat": 7,
+    "Category": "Breakfast,Dessert,Snack",
+    "Recipe URL": "https://www.keveats.com/recipes-more/chocolate-chip-pumpkin-bread"
+  },
+  {
+    "Title": "Chimmichurri Steak Sliders",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/83958e06-ddb1-4e84-8042-81653de95256/DSC01497.jpg?format=2500w",
+    "Calories": 420,
+    "Protein": 40,
+    "Carbs": 38,
+    "Fat": 12,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/chimmichurri-steak-sliders"
 ]

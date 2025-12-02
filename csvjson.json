@@ -808,5 +808,15 @@
     "Fat": 12,
     "Category": "Lunch,Dinner",
     "Recipe URL": "https://www.keveats.com/recipes-more/chimmichurri-steak-sliders"
-  }  
+  },
+  {
+    "Title": "Beef and Broccoli",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/77de73f1-46b0-4155-acd1-d6a3d00183c1/IMG_7480.jpeg?format=2500w",
+    "Calories": 290,
+    "Protein": 30,
+    "Carbs": 9,
+    "Fat": 15,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/beef-and-broccoli"
+  }
 ]

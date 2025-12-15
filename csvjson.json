@@ -818,5 +818,75 @@
     "Fat": 15,
     "Category": "Lunch,Dinner",
     "Recipe URL": "https://www.keveats.com/recipes-more/beef-and-broccoli"
+  },
+  {
+    "Title": "Butter Chicken & Naan",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/3a17e50e-4f51-4a90-a4f8-f8c47579bc5c/DSC01579.jpg?format=2500w",
+    "Calories": 493,
+    "Protein": 32,
+    "Carbs": 46,
+    "Fat": 18,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/butter-chicken-amp-naan"
+  },
+  {
+    "Title": "Hashbrown Breakfast Casserole",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/edc24d86-1981-4fe5-ae26-2dbb4ad1e398/DSC01591.jpg?format=2500w",
+    "Calories": 474,
+    "Protein": 25,
+    "Carbs": 19,
+    "Fat": 33,
+    "Category": "Breakfast,Lunch",
+    "Recipe URL": "https://www.keveats.com/recipes-more/hash-brown-breakfast-casserole"
+  },
+  {
+    "Title": "Chillean Sea Bass & Lemon Butter Sauce",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/1b75014c-ec65-4914-8f8e-1c5374445a0e/DSC01614.jpg?format=2500w",
+    "Calories": 525,
+    "Protein": 36,
+    "Carbs": 20,
+    "Fat": 34,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/chilean-sea-bass-amp-lemon-butter-sauce"
+  },
+  {
+    "Title": "Maple Miso Short Ribs",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/ee5437e9-6008-442d-9311-a625d6cb528f/DSC01644.jpg?format=2500w",
+    "Calories": 680,
+    "Protein": 46,
+    "Carbs": 30,
+    "Fat": 42,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/maple-miso-short-ribs"
+  },
+  {
+    "Title": "NYC Chicken Over Rice",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/ad827523-bcee-478f-a5ea-0fe36535818c/DSC01627.jpg?format=2500w",
+    "Calories": 620,
+    "Protein": 44,
+    "Carbs": 70,
+    "Fat": 19,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/nyc-chicken-and-rice"
+  },
+  {
+    "Title": "Mojo Rojo Chicken",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/0f4b211f-f0e2-4799-8e58-fc03071b11d0/DSC01661.jpg?format=2500w",
+    "Calories": 470,
+    "Protein": 35,
+    "Carbs": 30,
+    "Fat": 22,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/mojo-rojo-chicken"
+  },
+  {
+    "Title": "Sugar Cookie Overnight Oats",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/3c594f54-8040-42f9-ad7b-3424f682e7f3/DSC01679.jpg?format=2500w",
+    "Calories": 520,
+    "Protein": 40,
+    "Carbs": 54,
+    "Fat": 16,
+    "Category": "Lunch,Dinner,Snack",
+    "Recipe URL": "https://www.keveats.com/sugar-cookie-overnight-oats"
   }
 ]

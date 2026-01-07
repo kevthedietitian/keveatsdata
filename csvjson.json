@@ -888,5 +888,15 @@
     "Fat": 16,
     "Category": "Lunch,Dinner,Snack",
     "Recipe URL": "https://www.keveats.com/recipes-more/sugar-cookie-overnight-oats"
+  },
+  {
+    "Title": "Nashville Hot Chicken Bites & Cajun Mac",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/dd703c42-162e-4885-89a4-9704c9232cbf/DSC01716.jpg?format=2500w",
+    "Calories": 545,
+    "Protein": 61,
+    "Carbs": 36,
+    "Fat": 22,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/nashville-hot-chicken-bites-amp-cajun-mac"
   }
 ]

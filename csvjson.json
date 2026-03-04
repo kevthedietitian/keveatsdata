@@ -898,5 +898,15 @@
     "Fat": 22,
     "Category": "Lunch,Dinner",
     "Recipe URL": "https://www.keveats.com/recipes-more/nashville-hot-chicken-bites-amp-cajun-mac"
+  },
+  {
+    "Title": "Chili Lime Chicken & Potatoes",
+    "Image": "https://images.squarespace-cdn.com/content/67d5c253f82f2f4c7abd380e/22740acf-fd8c-4532-82a1-4930b49519e4/DSC01724.jpg?content-type=image%2Fjpeg",
+    "Calories": 551,
+    "Protein": 46,
+    "Carbs": 53,
+    "Fat": 17,
+    "Category": "Lunch,Dinner",
+    "https://www.keveats.com/recipes-more/chili-lime-chicken-amp-potatoes"
   }
 ]

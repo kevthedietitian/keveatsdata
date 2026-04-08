@@ -928,5 +928,15 @@
     "Fat": 24,
     "Category": "Lunch,Dinner",
     "Recipe URL": "https://www.keveats.com/recipes-more/korean-bbq-chicken-wraps"
+  },
+  {
+    "Title": "Green Goddess Chicken Salad",
+    "Image": "https://images.squarespace-cdn.com/content/67d5c253f82f2f4c7abd380e/6b265d9c-76b9-4f7e-a746-d5f11e108575/DSC01795.jpg?content-type=image%2Fjpeg",
+    "Calories": 290,
+    "Protein": 31,
+    "Carbs": 4,
+    "Fat": 16,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/green-goddess-chicken-salad"
   }
 ]

@@ -948,5 +948,15 @@
     "Fat": 22,
     "Category": "Lunch,Dinner",
     "Recipe URL": "https://www.keveats.com/recipes-more/elote-steak-tacos"
+  },
+  {
+    "Title": "The Crispiest Chicken Caesar Wrap",
+    "Image": "https://images.squarespace-cdn.com/content/67d5c253f82f2f4c7abd380e/1776123991928-94UROA4RHQ4M1ALQDSFR/DSC01737.jpg?content-type=image%2Fjpeg",
+    "Calories": 495,
+    "Protein": 47,
+    "Carbs": 40,
+    "Fat": 15,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/the-crispisiest-chicken-caesar-wrap"
   }
 ]

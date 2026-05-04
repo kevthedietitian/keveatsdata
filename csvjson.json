@@ -987,6 +987,46 @@
     "Carbs": 62,
     "Fat": 18,
     "Category": "Lunch,Dinner",
-    "Recipe URL": "https://www.keveats.com/recipes-more/enchiladas-rojo "
+    "Recipe URL": "https://www.keveats.com/recipes-more/enchiladas-rojo"
+  },
+  {
+    "Title": "Key Lime Pie Creami",
+    "Image": "https://images.squarespace-cdn.com/content/67d5c253f82f2f4c7abd380e/1777522970010-MBWO8M7X9ZNF1ENSJJY5/DSC01856.jpg?content-type=image%2Fjpeg",
+    "Calories": 340,
+    "Protein": 38,
+    "Carbs": 34,
+    "Fat": 6,
+    "Category": "Breakfast,Dessert,Snack",
+    "Recipe URL": "https://www.keveats.com/recipes-more/key-lime-pie-creami"
+  },
+  {
+    "Title": "Jerk Salmon Tacos",
+    "Image": "https://images.squarespace-cdn.com/content/67d5c253f82f2f4c7abd380e/1777523145146-IPEYK4FGU67VWYZNZPL9/DSC01847.jpg?content-type=image%2Fjpeg",
+    "Calories": 485,
+    "Protein": 32,
+    "Carbs": 45,
+    "Fat": 19,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/jerk-salmon-tacos"
+  },
+  {
+    "Title": "Fettucine Alfredo",
+    "Image": "https://images.squarespace-cdn.com/content/67d5c253f82f2f4c7abd380e/1777522868572-CLI236I7NO4S06PY3P8I/DSC01831.jpg?content-type=image%2Fjpeg",
+    "Calories": 560,
+    "Protein": 55,
+    "Carbs": 58,
+    "Fat": 14,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/fettuccine-alfredo"
+  },
+  {
+    "Title": "Honey Vanilla Protein Latte",
+    "Image": "https://images.squarespace-cdn.com/content/67d5c253f82f2f4c7abd380e/c20838c7-1270-468e-ae38-1cb6ca045771/DSC01868.jpg?content-type=image%2Fjpeg",
+    "Calories": 210,
+    "Protein": 28,
+    "Carbs": 18,
+    "Fat": 3,
+    "Category": "Breakfast,Snack,Dessert",
+    "Recipe URL": "https://www.keveats.com/recipes-more/honey-vanilla-protein-latte"
   }
 ]

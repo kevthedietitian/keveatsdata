@@ -1028,5 +1028,15 @@
     "Fat": 3,
     "Category": "Breakfast,Snack,Dessert",
     "Recipe URL": "https://www.keveats.com/recipes-more/honey-vanilla-protein-latte"
+  },
+  {
+    "Title": "Black Pepper Chicken",
+    "Image": "https://images.squarespace-cdn.com/content/v1/67d5c253f82f2f4c7abd380e/0ca1a2cd-3af9-4697-ba6e-1fa34082e731/DSC01922.jpg?format=2500w",
+    "Calories": 495,
+    "Protein": 44,
+    "Carbs": 46,
+    "Fat": 15,
+    "Category": "Lunch,Dinner",
+    "Recipe URL": "https://www.keveats.com/recipes-more/black-pepper-chicken"
   }
 ]
